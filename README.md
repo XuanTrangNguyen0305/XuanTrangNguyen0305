@@ -1,6 +1,7 @@
 # Hallo/Xin Chào, Welcome to my GitHub! 🙋🏻‍♀️
 
-My name is Trang Nguyễn. I used to live in Ho Chi Minh City, Vietnam 🇻🇳, before moving to Rotterdam, The Netherlands 🇳🇱. Before becoming a front-end developer, I was a 3D artist focused on game technology 🎮. I love to learn and create, which is why, after graduating from Saxion University 🎓, I joined the Mind.Mingle() coding bootcamp 💻 to challenge myself and step out of my comfort zone.
+My name is Trang Nguyễn. I used to live in Ho Chi Minh City, Vietnam 🇻🇳, before moving to Rotterdam, The Netherlands 🇳🇱. 
+Before becoming a front-end developer, I was a 3D artist focused on game technology 🎮. I love to learn and create, which is why, after graduating from Saxion University 🎓, I joined the Mind.Mingle() coding bootcamp 💻 to challenge myself and step out of my comfort zone.
 
 ## 🌍 Languages I Speak
 - Vietnamese 🇻🇳 (Native)
