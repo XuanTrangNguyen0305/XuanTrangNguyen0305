@@ -3,11 +3,6 @@
 My name is Trang Nguyễn. I used to live in Ho Chi Minh City, Vietnam 🇻🇳, before moving to Rotterdam, The Netherlands 🇳🇱. 
 Before becoming a front-end developer, I was a 3D artist focused on game technology 🎮. I love to learn and create, which is why, after graduating from Saxion University 🎓, I joined the Mind.Mingle() coding bootcamp 💻 to challenge myself and step out of my comfort zone.
 
-## 🌍 Languages I Speak
-- Vietnamese 🇻🇳 (Native)
-- English 🇬🇧 (Fluent)
-- Dutch 🇳🇱 (A2 Level)
-  
 ## ✨Tech Stack✨
 
 ### 🐻‍❄️ Frontend
@@ -56,3 +51,10 @@ Before becoming a front-end developer, I was a 3D artist focused on game technol
 ### Home Chef Recipe 🧑‍🍳🍴
 - **Home Chef Recipe**: A comprehensive culinary network where users can register, share their favorite recipes, comment on others' creations, and explore a diverse array of recipes from fellow chefs. My primary role was to develop the front-end components based on the UI/UX designs provided in Figma. (Private Repository)
   <br/>
+  
+🌍 Languages I Speak
+Vietnamese 🇻🇳 (Native)
+English 🇬🇧 (Fluent)
+Dutch 🇳🇱 (A2 Level)
+
+Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xuan-trang-nguyen-1715841a4/) for more updates and networking opportunities!
