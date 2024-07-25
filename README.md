@@ -5,9 +5,11 @@ Before becoming a front-end developer, I was a 3D artist focused on game technol
 
 ## ✨Tech Stack✨
 
-### 🐻‍❄️ Frontend
+### 👩🏻‍💻 Progamming Languages
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### 🐻‍❄️ Frontend
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![React Three.js](https://img.shields.io/badge/React_Three.js-000000?style=for-the-badge&logo=react&logoColor=white)](https://threejs.org/)
