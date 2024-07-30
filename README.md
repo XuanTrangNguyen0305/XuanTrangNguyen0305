@@ -8,6 +8,7 @@ Before becoming a front-end developer, I was a 3D artist focused on game technol
 ### 👩🏻‍💻 Progamming Languages
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ### 🐻‍❄️ Frontend
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
@@ -28,6 +29,8 @@ Before becoming a front-end developer, I was a 3D artist focused on game technol
 [![JSON Web Tokens](https://img.shields.io/badge/JSON_Web_Tokens-000000?style=for-the-badge&logo=json&logoColor=white)](https://jwt.io/)
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
+[![bcrypt](https://img.shields.io/badge/bcrypt-4A154B?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/bcrypt)
+
 
 ### 🖌️ 3D
 [![Maya](https://img.shields.io/badge/Maya-002F6C?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/maya/overview)
