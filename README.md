@@ -10,12 +10,15 @@ Before becoming a front-end developer, I was a 3D artist focused on game technol
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
+
 ### 🐻‍❄️ Frontend
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![React Three.js](https://img.shields.io/badge/React_Three.js-000000?style=for-the-badge&logo=react&logoColor=white)](https://threejs.org/)
 [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threejs&logoColor=white)](https://threejs.org/)
 [![Drei](https://img.shields.io/badge/Drei-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pmndrs/drei)
+[![Angular](https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+
 
 ### 🐻 Backend
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
